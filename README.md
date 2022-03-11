@@ -17,7 +17,7 @@
   <img align="center" alt="Matheus-TRELLO" height="30" width="30" src="https://img.icons8.com/ios/50/000000/notion.png"/>
   </div>
   <br>
-  <h2>Ferramentas e habilidades de programação</h2>
+  <h2>Ferramentas e habilidades de programação e computação</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
