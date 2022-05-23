@@ -10,15 +10,10 @@
   <img  align="center" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-luz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-  <h2>Ferramentas e habilidades de organização</h2>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-SLACK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img align="center" alt="Matheus-TRELLO" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img align="center" alt="Matheus-TRELLO" height="30" width="30" src="https://img.icons8.com/ios/50/000000/notion.png"/>
-  </div>
-  <br>
-  <h2>Ferramentas e habilidades de programação e computação</h2>
+  <h2>HABILIDADES</h2>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-TRELLO" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  <img align="center" alt="Matheus-NOTION" height="30" width="30" src="https://img.icons8.com/ios/50/000000/notion.png"/>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
