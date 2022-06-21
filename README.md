@@ -1,8 +1,5 @@
 ## Bem vindo! Eu sou o Matheus!!
 
-- ✔️ Estudante de Desenvolvimento Web Full Stack na Trybe
-- 🌱 Atualmente estudando Node.js
-
 <br>
 <div style="display: inline_block">
   <a href="https://github.com/matheus-luz">
