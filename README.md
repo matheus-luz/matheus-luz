@@ -8,7 +8,7 @@
 </div>
   
   <br>
-  <h2>HABILIDADES</h2>
+  <h2>Tools and Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Matheus-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
