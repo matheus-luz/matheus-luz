@@ -29,7 +29,8 @@
   
   <div>
     <h2>Studying</h2>
-    <img align="center" alt="Matheus-nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Matheus-nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
+    <img align="center" alt="Matheus-nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </div>
   
   ##
