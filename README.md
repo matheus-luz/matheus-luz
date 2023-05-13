@@ -1,43 +1,38 @@
-## Bem vindo! Eu sou o Matheus!!
+Hello, my name is Matheus Luz
+======================================================================================================================================
 
-<br>
+Full Stack Developer
+------------------
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [luz.matheus11@gmail.com](mailto:luz.matheus11@gmail.com)
+* 🧠  I'm learning Next.JS and Angular.Js
+
+## 
+<b>My GitHub Stats</b>
 <div display="inline-block">
   <a href="https://github.com/matheus-luz">
-  <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=matheus-luz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-luz&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-luz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Matheus's GitHub stats" /></a>
+  <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-luz&layout=compact&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true"/>
 </div>
-  
-  <br>
-  <h2>Tools and Skills</h2>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Matheus-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Matheus-linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Matheus-js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Matheus-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Matheus-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Matheus-react" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Matheus-redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" alt="Matheus-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img align="center" alt="Matheus-jest" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Matheus-node" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Matheus-npm" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="center" alt="Matheus-heroku" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-    <img align="center" alt="Matheus-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="Matheus-ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="Matheus-mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </div>
-  
-  <div>
-    <h2>Studying</h2>
-    <img align="center" alt="Matheus-nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
-    <img align="center" alt="Matheus-nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  </div>
-  
-  ##
  
-<div> 
-  <a href="https://instagram.com/omatheus_luz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luz.matheus11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/omatheus-luz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Skills
+<p align="left">
+    <img align="center" alt="git" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="linux" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="js" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="react" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="redux" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img align="center" alt="jest" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img align="center" alt="jest" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="node" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="heroku" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+    <img align="center" alt="docker" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" alt="ts" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="mongo" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+</p>
  
-</div>
+### Socials
+<p align="left"> <a href="https://www.github.com/matheus-luz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matheus-luz-/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
