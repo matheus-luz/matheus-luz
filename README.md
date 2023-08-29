@@ -7,14 +7,6 @@ Full Stack Developer
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [luz.matheus11@gmail.com](mailto:luz.matheus11@gmail.com)
 * 🧠  I'm learning Next.JS and Angular.Js
-
-## 
-<b>My GitHub Stats</b>
-<div display="inline-block">
-  <a href="https://github.com/matheus-luz">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-luz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Matheus's GitHub stats" /></a>
-  <img align="center" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-luz&layout=compact&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true"/>
-</div>
  
 ### Skills
 <p align="left">
